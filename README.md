@@ -3,7 +3,7 @@
 In this repo we are going to do Analysis on Life expectancy data collected by WHO of period 2000 to 2015. By doing analysis we will be generating insights that 
 can be utilized to increase life expectancy or tame those factors which are likely decreasing life expectancy over the globe.
 
- # **Data should answer following questions:**
+ # **The analysis should answer following questions:**
 
 1. Is life expectancy same for both developed and developing world?
 2. How does Infant and Adult mortality rates affect life expectancy?
